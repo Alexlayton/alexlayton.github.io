@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/alexlayton
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://alexlayton.co
+  * I am alexlayton (https://keybase.io/alexlayton) on keybase.
+  * I have a public key with fingerprint 6C07 A8AF 7E16 FD1D 878D  4178 CADF 72AA 3DF1 2C2E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "6c07a8af7e16fd1d878d4178cadf72aa3df12c2e",
+            "host": "keybase.io",
+            "key_id": "cadf72aa3df12c2e",
+            "kid": "0101e46e76656ff71417943e9a0c6fcaa67e0b8e51418faa9e5e26ad562500acc86a0a",
+            "uid": "3657c111dcf4e3b7b01386cafde67800",
+            "username": "alexlayton"
+        },
+        "service": {
+            "hostname": "alexlayton.co",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1425324015,
+    "expire_in": 157680000,
+    "prev": "ae3d47d8256dea89b767e74936f49d5d3a3a365f636a62ce6f184a4f43dd9fa8",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIZAnicbZJbSBRRGMdXyy2li+Glhx7CEUNpkzlzOTO7CWGSFJIlCIEK65k5Z3TU
+drbZcdVWQ0EryAuptA9GpA89dBUpMwtJrfCS4EOomG+CWhiCZjcQOiP1VJyHj/N9
+/+/3Xfje7N3hiIkIP2rKK+8ZOx0xOZxV6cj/+nwtxCgGrmE8IaacbBtN95UQ02/q
+PovxMFBlJSQjTSIAahhgWZKxACRZRViTOIR4rAFO5QjjYkqNgJ1BMQoKkHTdoD76
+8eqYev+jL98OsIAFRIBEglCEmiYBSncLPHEjVoWaihCUCKvIRKQBWUPITUTCQYRF
+yIksi1RVhohFFFe5jeOhKKkAAKxqAuEVSWEBL0MVaZhASWZZWxggpg9dJFSNKkh1
+BaqxDB9T52KoP6irxF6CPcs/mnTVHslvGpahGhU0VGpZfo+dadX4bWkVUbx/IF5F
+92G6SZoQJGZApxU8gCpVS7epQOBEnhNYILoYUu3XTeLVbYUoQdoky9plSNCuTngs
+SFjmRIgJkt2KRPchCW4eaoIbi5hH9EFRgzxEkFMJ1IAsIEETeIzdGpIZe6xLPoPx
+8LRNVEKRAb3Eh6xKkzB1I6+LdjoiYhzOqEj7Fhwx0bF/LyQxbdfWgea3+632xvaF
+oZTK0I+1/rrpM0m1Yc9cVUHewxN3ZxJK0sIjo86B5OnoSFdq53LayL2HNx73TX2L
+H07q6soKSFt39qReLm42Y7Me5MQHvUfuN85NtOWGJjJKZ1KmZ180fCweWz822Jse
+PJVdllN0JfV72Dk0f+1lN5Mc53zmzCwMLyUW+S+s9/ac7cxgWtq5vLaK8ZuHukdb
+hxvqV+rTT+ZuxBXEXuXGFGN6ZGpyQI4aO2hFPF15N/7K0dG/FPq59eGzMVewer5s
+IX9TLTzcmr3o3miqX+hzXv+0+8n7zMbFhNym+o5f+8Dmrchzg9bx1aP6FzC7PE/M
+lpTbqbWLvwGsJzA3
+=wMsW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexlayton
+
+==================================================================
+
+
